@@ -1,0 +1,3 @@
+[submodule "MAMnet"]
+	path = MAMnet
+	url = https://github.com/micahvista/MAMnet.git
