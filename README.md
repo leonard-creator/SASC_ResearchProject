@@ -2,7 +2,7 @@
 
 ## by Leonard Tiling
 
-The following provides information where to find the scripts I used in the research project. They are designed for automatic multiple and consistent execution of task of my workflow. 
+Below you will find information about the scripts I used as part of the research project. They are designed for automatic, multiple and consistent execution of the tasks in my workflow. 
 
 
 ### Executing the SVision and MAMnet on the HPC cluster
