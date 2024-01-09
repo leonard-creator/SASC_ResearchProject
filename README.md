@@ -11,10 +11,10 @@ The script for SVision is *run_SVision.sh* and for MAMnet *run_MAMnet.sh*. They 
 Everything will be documented in an output log of slurm and the tools. 
 
 ### Result file processing for truvari
-Next, two bash scripts including awk programing language modify the output vcf of SVision and MAMnet so that truvari can handle the comparison of them. 
+Next, the folder *truvari_processing* contains two bash scripts including awk programing language modify the output vcf of SVision and MAMnet so that truvari can handle the comparison of them. 
 For SVision it excludes certain CSVs for comparison reasons and for MAMnet it adds placeholder information so that truvari can read the file. For both, sorting, annotating indexing and cleanup of intermediat files happens automatically.
 
 
 ### Additional material
 
-More scripts, output files and logs are uploaded in this folder for interest. 
+More scripts, output files and logs are uploaded here.  
